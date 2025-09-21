@@ -1,11 +1,4 @@
-# Streamlit for web app
 streamlit==1.30.0
-
-# Transformers library for emotion analysis
-transformers==4.44.0
-
-# PyTorch compatible with Python 3.13
+transformers==4.44.1
 torch==2.8.0
-
-# Optional: For better exception logging in Streamlit
 rich==14.1.0
